@@ -22,7 +22,7 @@ const FooterData = {
             "width": 90
         },
         {
-            "href": "disrupt@playlistdao.io",
+            "href": "mailto:disrupt@playlistdao.io",
             "target":"_top",
             "img": Email,
             "name": "email icon",
