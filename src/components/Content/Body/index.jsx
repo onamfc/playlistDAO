@@ -19,7 +19,7 @@ const Body = () => {
                     The <span className="f-md manic-shine"><img src={ManicShine}
                                                                 alt="manic-shine"/>protagonist</span> in the unbundling
                     of the music industry
-                    is <span className="f-md">PlaylistDAO</span>–a
+                    is <span className="f-md">PlaylistDAO</span> –a
                     legion of fans that does more than resist, it moves. <span className="f-md">The <span
                     className="manic-line">industry is stealing<img src={ManicLine} alt="manic-line"/></span> <span
                     className="manic-emphasis">from<img src={ManicEmphasis}

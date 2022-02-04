@@ -14,7 +14,7 @@ const FooterData = {
             "width": 130
         },
         {
-            "href": "https://discordapp.com/channels/@PlaylistDAO",
+            "href": "https://discord.gg/8np28pEMbS",
             "target":"_blank",
             "img": Discord,
             "name": "discord icon",
