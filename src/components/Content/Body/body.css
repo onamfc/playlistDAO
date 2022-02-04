@@ -163,10 +163,10 @@ span {
 
     .manic-rectangle img {
         position: absolute;
-        bottom: -4px;
+        bottom: 0;
         left: -6px;
         z-index: 1;
-        width: 336px;
+        width: 316px;
     }
 
 }
