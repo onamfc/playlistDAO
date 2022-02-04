@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "MANIC Regular";
+    src: url('../../../assets/fonts/manic/MANIC-Regular.woff2') format('woff2'),
+    url('../../../assets/fonts/manic/MANIC-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: "MANIC Sketches";
+    src: url('../../../assets/fonts/manic/MANIC-Sketches.woff2') format('woff2'),
+    url('../../../assets/fonts/manic/MANIC-Sketches.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: "MANIC Alternates 1";
+    src: url('../../../assets/fonts/manic/MANIC-Alternates1.woff2') format('woff2'),
+    url('../../../assets/fonts/manic/MANIC-Alternates1.woff') format('woff');
+}
+
+@font-face {
+    font-family: "MANIC Alternates 2";
+    src: url('../../../assets/fonts/manic/MANIC-Alternates2.woff2') format('woff2'),
+    url('../../../assets/fonts/manic/MANIC-Alternates2.woff') format('woff');
+}
+
+@font-face {
+    font-family: "MANIC Alternates 3";
+    src: url('../../../assets/fonts/manic/MANIC-Alternates3.woff2') format('woff2'),
+    url('../../../assets/fonts/manic/MANIC-Alternates3.woff') format('woff');
+
+}

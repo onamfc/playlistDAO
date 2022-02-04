@@ -1,0 +1,69 @@
+/***
+
+====================================================================
+  Import fonts
+====================================================================
+
+***/
+
+@import url("https://use.typekit.net/syr7jme.css");
+
+/***
+
+====================================================================
+  General css style
+====================================================================
+
+***/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: acumin-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-image: url(../img/bg-img/noise.png);
+    background-size: cover;
+    background-position: center;
+    background-color: #030303;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+    text-decoration: none;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+    outline: none;
+}
+
+li {
+    list-style: none;
+}
+
+p {
+    line-height: 1.9;
+    color: #F4F4F4;
+    font-size: 15px;
+}
+
+img {
+    height: auto;
+}
+
+ul,
+ol {
+    margin: 0;
+    padding: 0;
+}
+
+.relative {
+    position: relative;
+}
+
+.content-main {
+    height: 400px;
+}
