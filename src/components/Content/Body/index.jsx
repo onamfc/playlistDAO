@@ -20,13 +20,14 @@ const Body = () => {
                                                                 alt="manic-shine"/>protagonist</span> in the unbundling
                     of the music industry
                     is <span className="f-md">PlaylistDAO</span> – a
-                    legion of fans that does more than resist, it moves. <span className="f-md">The <span
-                    className="manic-line">industry is stealing<img src={ManicLine} alt="manic-line"/></span> <span
-                    className="manic-emphasis">from<img src={ManicEmphasis}
-                                                        alt="manic-emphasis"/> artists<img src={ManicSmiley}
-                                                                                           alt="manic-smiley"/></span></span> and
-                    has tried to confine them to narrow stereotypes optimized for max clicks & streams. But now, we have
-                    tools to turn that industry on its head.
+                    legion of fans that does more than resist, it moves.
+                    <span className="f-md"> The <span className="manic-line">industry is stealing
+                    <img src={ManicLine} alt="manic-line"/></span>
+                        <span className="manic-smiley"> from <img src={ManicSmiley}
+                                                                    alt="manic-smiley"/></span>
+                        <span className="manic-emphasis">artists<img src={ManicEmphasis} alt="manic-emphasis"/></span>
+                    </span> and has tried to confine them to narrow stereotypes optimized for max clicks & streams. But
+                    now, we have tools to turn that industry on its head.
                 </p>
                 <p>
                     <span className="f-xl manic-circle"><img src={ManicCircle}
