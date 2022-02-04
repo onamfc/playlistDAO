@@ -18,8 +18,8 @@ The Web3 music ecosystem is a near-blank canvas that awaits our imprint. Time is
 
 ### Contributing
 
-Thank you for considering contributing to the PlaylistDAO! Please feel free to make e-mail disrupt@playlistdao.io for
-information.
+Thank you for considering contributing to the PlaylistDAO! Please feel free to make a pull request or e-mail
+disrupt@playlistdao.io for information.
 
 ### Security Vulnerabilities
 
