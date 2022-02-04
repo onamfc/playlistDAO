@@ -188,12 +188,13 @@ span {
     }
 
     .manic-smiley img {
-        position: absolute;
-        /*bottom: -68px;*/
-        /*right: -256px;*/
-        width: 68px;
-        bottom: 88px;
-        right: -220px;
+        /*position: absolute;*/
+        /*!*bottom: -68px;*!*/
+        /*!*right: -256px;*!*/
+        /*width: 68px;*/
+        /*bottom: 88px;*/
+        /*right: -220px;*/
+        display:none;
     }
     .manic-emphasis img {
         position: absolute;
