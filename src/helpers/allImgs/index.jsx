@@ -8,11 +8,9 @@ import ManicEmphasisAlt from "../../assets/img/doodles/manic-emphasis-alt.svg"
 import ManicLine from "../../assets/img/doodles/manic-line.svg"
 import ManicRectangle from "../../assets/img/doodles/manic-rectangle.svg"
 import ManicSmiley from "../../assets/img/doodles/manic-smiley.svg"
-import Noise from "../../assets/img/bg-img/noise.png"
 
 export {
     PlaylistLogo,
-    Noise,
     FooterSlogan,
     ManicShine,
     ManicCircle,
