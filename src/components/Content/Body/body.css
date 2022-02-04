@@ -143,9 +143,11 @@ span {
 
     .manic-smiley img {
         position: absolute;
-        bottom: -48px;
-        right: -36px;
+        /*bottom: -48px;*/
+        /*right: -36px;*/
         width: 48px;
+        left: 300px;
+        top: -60px;
     }
 
     .manic-circle img {
@@ -177,7 +179,7 @@ span {
 
 }
 
-@media screen and (max-width: 767px) and (orientation: landscape) {
+@media screen and (orientation: landscape) {
     .manic-line img {
         position: absolute;
         bottom: -16px;
@@ -187,9 +189,11 @@ span {
 
     .manic-smiley img {
         position: absolute;
-        bottom: -68px;
-        right: -256px;
+        /*bottom: -68px;*/
+        /*right: -256px;*/
         width: 68px;
+        bottom: 88px;
+        right: -220px;
     }
     .manic-emphasis img {
         position: absolute;
