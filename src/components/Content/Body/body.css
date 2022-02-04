@@ -142,12 +142,13 @@ span {
     }
 
     .manic-smiley img {
-        position: absolute;
-        /*bottom: -48px;*/
-        /*right: -36px;*/
-        width: 48px;
-        left: 300px;
-        top: -60px;
+        /*position: absolute;*/
+        /*!*bottom: -48px;*!*/
+        /*!*right: -36px;*!*/
+        /*width: 48px;*/
+        /*left: 300px;*/
+        /*top: -60px;*/
+        display:none;
     }
 
     .manic-circle img {
