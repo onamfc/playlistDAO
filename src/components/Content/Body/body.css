@@ -180,7 +180,7 @@ span {
 
 }
 
-@media screen and (orientation: landscape) {
+@media only screen and (orientation: landscape) {
     .manic-line img {
         position: absolute;
         bottom: -16px;
