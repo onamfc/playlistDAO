@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.83e07adf.chunk.css",
+    "main.css": "./static/css/main.15dc42c6.chunk.css",
     "main.js": "./static/js/main.5dc57089.chunk.js",
     "main.js.map": "./static/js/main.5dc57089.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.f131b90f.js",
@@ -10,8 +10,9 @@
     "static/js/2.dd5f104f.chunk.js.map": "./static/js/2.dd5f104f.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.9ec07ce6.chunk.css.map": "./static/css/2.9ec07ce6.chunk.css.map",
-    "static/css/main.83e07adf.chunk.css.map": "./static/css/main.83e07adf.chunk.css.map",
+    "static/css/main.15dc42c6.chunk.css.map": "./static/css/main.15dc42c6.chunk.css.map",
     "static/js/2.dd5f104f.chunk.js.LICENSE.txt": "./static/js/2.dd5f104f.chunk.js.LICENSE.txt",
+    "static/media/Footer.css": "./static/media/Crowd.402032a9.jpg",
     "static/media/body.css": "./static/media/MANIC-Sketches.bcd8e301.woff",
     "static/media/build-hold-play.5886621d.svg": "./static/media/build-hold-play.5886621d.svg",
     "static/media/discord.e57e9d0f.svg": "./static/media/discord.e57e9d0f.svg",
@@ -26,14 +27,13 @@
     "static/media/manic-smiley.ef484981.svg": "./static/media/manic-smiley.ef484981.svg",
     "static/media/general.css": "./static/media/noise.de360a52.png",
     "static/media/playlist-dao-logo.4c11dcd5.svg": "./static/media/playlist-dao-logo.4c11dcd5.svg",
-    "static/media/Footer.css": "./static/media/social-mosh.19bb3491.jpg",
     "static/media/twitter.7812d15f.svg": "./static/media/twitter.7812d15f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f131b90f.js",
     "static/css/2.9ec07ce6.chunk.css",
     "static/js/2.dd5f104f.chunk.js",
-    "static/css/main.83e07adf.chunk.css",
+    "static/css/main.15dc42c6.chunk.css",
     "static/js/main.5dc57089.chunk.js"
   ]
 }
