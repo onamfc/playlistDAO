@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.15dc42c6.chunk.css",
+    "main.css": "./static/css/main.06082c90.chunk.css",
     "main.js": "./static/js/main.5dc57089.chunk.js",
     "main.js.map": "./static/js/main.5dc57089.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.f131b90f.js",
@@ -10,11 +10,11 @@
     "static/js/2.dd5f104f.chunk.js.map": "./static/js/2.dd5f104f.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.9ec07ce6.chunk.css.map": "./static/css/2.9ec07ce6.chunk.css.map",
-    "static/css/main.15dc42c6.chunk.css.map": "./static/css/main.15dc42c6.chunk.css.map",
+    "static/css/main.06082c90.chunk.css.map": "./static/css/main.06082c90.chunk.css.map",
     "static/js/2.dd5f104f.chunk.js.LICENSE.txt": "./static/js/2.dd5f104f.chunk.js.LICENSE.txt",
-    "static/media/Footer.css": "./static/media/Crowd.402032a9.jpg",
     "static/media/body.css": "./static/media/MANIC-Sketches.bcd8e301.woff",
     "static/media/build-hold-play.5886621d.svg": "./static/media/build-hold-play.5886621d.svg",
+    "static/media/Footer.css": "./static/media/crowd-monochromeiSUWjYQrB2vc.c6e44b98.jpg",
     "static/media/discord.e57e9d0f.svg": "./static/media/discord.e57e9d0f.svg",
     "static/media/email.be5aa539.svg": "./static/media/email.be5aa539.svg",
     "static/media/manic-circle-alt.333cb8b4.svg": "./static/media/manic-circle-alt.333cb8b4.svg",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.f131b90f.js",
     "static/css/2.9ec07ce6.chunk.css",
     "static/js/2.dd5f104f.chunk.js",
-    "static/css/main.15dc42c6.chunk.css",
+    "static/css/main.06082c90.chunk.css",
     "static/js/main.5dc57089.chunk.js"
   ]
 }
