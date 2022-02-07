@@ -9,7 +9,7 @@
     position: relative;
 }
 
-.widget-content img.slogan {
+img.slogan {
     float: right;
     margin-top: -80px;
     margin-right: -40px;
@@ -106,19 +106,28 @@
         margin: 32px auto 20px;
     }
 
+    .widget-content {
+        text-align: center;
+    }
+
+    .social-links {
+        margin-left: -20px;
+    }
+
     .widget-content .text {
         max-width: 360px;
         font-size: 18px;
         margin-bottom: 60px;
+        text-align: left;
     }
 
-    .widget-content img.slogan {
-        float: right;
-        margin-top: 0;
-        margin-right: 0;
-        width: 200px;
-
+    img.slogan {
+        margin: 0 auto;
+        width: 280px;
+        float: none;
+        margin-left: -52px;
     }
+
 
     .copyright-text {
         font-size: 16px;
