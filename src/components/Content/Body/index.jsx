@@ -15,19 +15,19 @@ const Body = () => {
     return (
         <div id="body-content" className="container mt-2 pt-5">
             <div className="row">
-                <p>
+                <p className="relative">
                     The <span className="f-md manic-shine"><img src={ManicShine}
                                                                 alt="manic-shine"/>protagonist</span> in the unbundling
                     of the music industry
                     is <span className="f-md">PlaylistDAO</span> – a
                     legion of fans that does more than resist, it moves.
                     <span className="f-md"> The <span className="manic-line">industry is stealing
-                    <img src={ManicLine} alt="manic-line"/></span>
-                        <span className="manic-smiley"> from <img src={ManicSmiley}
-                                                                  alt="manic-smiley"/></span>
-                        <span className="manic-emphasis">artists<img src={ManicEmphasis} alt="manic-emphasis"/></span>
+                    <img src={ManicLine} alt="manic-line"/></span> from <span
+                        className="manic-emphasis"> artists<img src={ManicEmphasis} alt="manic-emphasis"/></span>
                     </span> and has tried to confine them to narrow stereotypes optimized for max clicks & streams. But
                     now, we have tools to turn that industry on its head.
+                    <img className="manic-smiley" src={ManicSmiley}
+                                                        alt="manic-smiley"/>
                 </p>
                 <p className="mb-0">
                     <span className="f-xl manic-circle"><img src={ManicCircle}

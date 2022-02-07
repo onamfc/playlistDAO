@@ -1,7 +1,7 @@
 @import "fonts.css";
 
 #body-content {
-    max-width: 800px;
+    max-width: 812px;
     margin: 60px auto 110px;
 
 }
@@ -10,6 +10,10 @@
     font-family: "MANIC Alternates 3", sans-serif;
     font-size: 38px;
     margin-bottom: 60px;
+}
+
+.relative {
+    position: relative;
 }
 
 span {
@@ -48,10 +52,10 @@ span {
     left: -44px;
 }
 
-.manic-smiley img {
+.manic-smiley {
     position: absolute;
-    bottom: -30px;
-    right: -88px;
+    top: 60%;
+    right: 0;
 }
 
 
@@ -143,14 +147,9 @@ span {
         width: 140px;
     }
 
-    .manic-smiley img {
-        /*position: absolute;*/
-        /*!*bottom: -48px;*!*/
-        /*!*right: -36px;*!*/
-        /*width: 48px;*/
-        /*left: 300px;*/
-        /*top: -60px;*/
-        display: none;
+    .manic-smiley {
+        width: 48px;
+        top: 45%;
     }
 
     .manic-circle img {
