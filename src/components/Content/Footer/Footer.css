@@ -98,17 +98,29 @@
 }
 
 @media screen and (max-width: 414px) {
+    .widgets-section {
+        padding-top: 52px;
+    }
+
+    .main-footer .has-line-center:after {
+        margin: 32px auto 20px;
+    }
+
     .widget-content .text {
         max-width: 360px;
-        font-size: 20px;
+        font-size: 18px;
+        margin-bottom: 60px;
     }
+
     .widget-content img.slogan {
         float: right;
         margin-top: 0;
         margin-right: 0;
         width: 200px;
+
     }
-    .copyright-text{
+
+    .copyright-text {
         font-size: 16px;
     }
 }

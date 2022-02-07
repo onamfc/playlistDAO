@@ -24,21 +24,26 @@ const Body = () => {
                     <span className="f-md"> The <span className="manic-line">industry is stealing
                     <img src={ManicLine} alt="manic-line"/></span>
                         <span className="manic-smiley"> from <img src={ManicSmiley}
-                                                                    alt="manic-smiley"/></span>
+                                                                  alt="manic-smiley"/></span>
                         <span className="manic-emphasis">artists<img src={ManicEmphasis} alt="manic-emphasis"/></span>
                     </span> and has tried to confine them to narrow stereotypes optimized for max clicks & streams. But
                     now, we have tools to turn that industry on its head.
                 </p>
-                <p>
+                <p className="mb-0">
                     <span className="f-xl manic-circle"><img src={ManicCircle}
                                                              alt="manic-circle"/>BUiDL.</span> As a DAO, we stockpile
-                    resources + ideas to take back the music meant for fans. <span
-                    className="f-xl manic-circle-alt">HodL.<img src={ManicCircleAlt}
-                                                                alt="manic-circle-alt"/></span> Through
-                    NFTs, we redefine ownership,
-                    collecting, and artist patronage. <span className="f-xl manic-emphasis-alt">PLAY.<img
-                    src={ManicEmphasisAlt}
-                    alt="manic-emphasis-alt"/></span> Our
+                    resources + ideas to take back the music meant for fans.
+                </p>
+                <p className="mb-0">
+                    <span
+                        className="f-xl manic-circle-alt">HodL.<img src={ManicCircleAlt}
+                                                                    alt="manic-circle-alt"/></span> Through
+                    NFTs, we redefine ownership, collecting, and artist patronage.
+                </p>
+                <p className="mb-0">
+                    <span className="f-xl manic-emphasis-alt">PLAY.<img
+                        src={ManicEmphasisAlt}
+                        alt="manic-emphasis-alt"/></span> Our
                     community will vibe online
                     & IRL (our venues are sanctuaries) as avante-garde pioneers raising hell in the most gratifying of
                     ways.

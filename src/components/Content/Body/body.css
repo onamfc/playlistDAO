@@ -91,9 +91,11 @@ span {
 
 
 @media screen and (max-width: 414px) {
+
     #body-content {
         max-width: 340px;
         padding: 0 4px;
+        margin-bottom: 28px;
     }
 
     #body-content p {
@@ -148,7 +150,7 @@ span {
         /*width: 48px;*/
         /*left: 300px;*/
         /*top: -60px;*/
-        display:none;
+        display: none;
     }
 
     .manic-circle img {
@@ -195,8 +197,9 @@ span {
         /*width: 68px;*/
         /*bottom: 88px;*/
         /*right: -220px;*/
-        display:none;
+        display: none;
     }
+
     .manic-emphasis img {
         position: absolute;
         bottom: -20px;

@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.dadf8da2.chunk.css",
-    "main.js": "./static/js/main.5dc57089.chunk.js",
-    "main.js.map": "./static/js/main.5dc57089.chunk.js.map",
+    "main.css": "./static/css/main.2bb305a2.chunk.css",
+    "main.js": "./static/js/main.4f421fb7.chunk.js",
+    "main.js.map": "./static/js/main.4f421fb7.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.f131b90f.js",
     "runtime-main.js.map": "./static/js/runtime-main.f131b90f.js.map",
     "static/css/2.9ec07ce6.chunk.css": "./static/css/2.9ec07ce6.chunk.css",
@@ -10,13 +10,13 @@
     "static/js/2.dd5f104f.chunk.js.map": "./static/js/2.dd5f104f.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.9ec07ce6.chunk.css.map": "./static/css/2.9ec07ce6.chunk.css.map",
-    "static/css/main.dadf8da2.chunk.css.map": "./static/css/main.dadf8da2.chunk.css.map",
+    "static/css/main.2bb305a2.chunk.css.map": "./static/css/main.2bb305a2.chunk.css.map",
     "static/js/2.dd5f104f.chunk.js.LICENSE.txt": "./static/js/2.dd5f104f.chunk.js.LICENSE.txt",
     "static/media/body.css": "./static/media/MANIC-Sketches.bcd8e301.woff",
-    "static/media/build-hold-play.5886621d.svg": "./static/media/build-hold-play.5886621d.svg",
+    "static/media/build-hold-play.ba44d07d.svg": "./static/media/build-hold-play.ba44d07d.svg",
     "static/media/Footer.css": "./static/media/crowd-monochromeiSUWjYQrB2vc.c6e44b98.jpg",
-    "static/media/discord.e57e9d0f.svg": "./static/media/discord.e57e9d0f.svg",
-    "static/media/email.be5aa539.svg": "./static/media/email.be5aa539.svg",
+    "static/media/discord.95993e4f.svg": "./static/media/discord.95993e4f.svg",
+    "static/media/email.18c552e4.svg": "./static/media/email.18c552e4.svg",
     "static/media/manic-circle-alt.333cb8b4.svg": "./static/media/manic-circle-alt.333cb8b4.svg",
     "static/media/manic-circle.fb88937a.svg": "./static/media/manic-circle.fb88937a.svg",
     "static/media/manic-emphasis-alt.2281ff00.svg": "./static/media/manic-emphasis-alt.2281ff00.svg",
@@ -27,13 +27,13 @@
     "static/media/manic-smiley.ef484981.svg": "./static/media/manic-smiley.ef484981.svg",
     "static/media/general.css": "./static/media/noise.de360a52.png",
     "static/media/playlist-dao-logo.4c11dcd5.svg": "./static/media/playlist-dao-logo.4c11dcd5.svg",
-    "static/media/twitter.7812d15f.svg": "./static/media/twitter.7812d15f.svg"
+    "static/media/twitter.9a67d4d8.svg": "./static/media/twitter.9a67d4d8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f131b90f.js",
     "static/css/2.9ec07ce6.chunk.css",
     "static/js/2.dd5f104f.chunk.js",
-    "static/css/main.dadf8da2.chunk.css",
-    "static/js/main.5dc57089.chunk.js"
+    "static/css/main.2bb305a2.chunk.css",
+    "static/js/main.4f421fb7.chunk.js"
   ]
 }
