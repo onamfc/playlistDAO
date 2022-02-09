@@ -14,7 +14,7 @@ const FooterData = {
             "width": 130
         },
         {
-            "href": "https://discord.gg/8np28pEMbS",
+            "href": "https://discord.gg/VaEfp372Ag",
             "target":"_blank",
             "img": Discord,
             "name": "discord icon",
